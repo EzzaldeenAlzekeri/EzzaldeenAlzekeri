@@ -1,22 +1,178 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ezzaldeen+Alzekri+👋;AI-Focused+Full-Stack+Developer+🚀;Building+Smart+%26+Scalable+Digital+Experiences+✨" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://your-banner-image.com/banner.png" width="100%" alt="Ezzaldeen Mohammed Naji Alzekri Banner"/>
+</p>
+
+<h1 align="center">✨ Ezzaldeen Mohammed Naji Alzekri ✨</h1>
+<p align="center">Full Stack Developer • AI Integrations • Software Engineer</p>
+
+<p align="center">
+  <a href="mailto:aazaddeenalzekri@gmail.com">📩 Email</a> •
+  <a href="https://ezzaldeen-portfolio.vercel.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ezzaldeen-alzekri-048479216">💼 LinkedIn</a> •
+  <a href="https://github.com/EzzaldeenAlzekeri">🐙 GitHub</a>
+</p>
 
 ---
 
-## 🌟 About Me
-A passionate *AI-Focused Full-Stack Developer* crafting intelligent, scalable applications that merge  
-*AI, automation, and modern web engineering* into seamless digital experiences.
+# 🌍 English Version
 
-I enjoy building tools that boost developer productivity, automate workflows, and enhance user experiences using smart technologies.
+## 👋 About Me
+
+I'm *Ezzaldeen Mohammed Naji Alzekri, a passionate **Full Stack Developer* specialized in designing and developing high-performance, scalable systems with a focus on:
+
+- 🔹 AI-powered applications  
+- 🔹 Real-time systems (WebRTC + WebSockets)  
+- 🔹 Full-stack web development (React + Node.js + MongoDB)  
+- 🔹 Clean UI/UX with modern design standards  
+
+I love building digital products that combine *performance, **creativity, and **intelligent automation*.
 
 ---
 
-## 🧠 Core Expertise
-- ⚡ AI/ML Integrations (OpenAI, LangChain, Hugging Face)  
-- 🌐 Full-Stack Development (TypeScript, React/Next.js, Node.js)  
-- 🧩 Backend Architecture & APIs (Express, FastAPI)  
-- 🗄 Databases (PostgreSQL, MongoDB, Redis, Vector DBs)  
-- 🤖 Intelligent Agents, Automation, Workflow Orchestration  
-- 🔌 Real-Time Apps (WebSockets, WebRTC)
+# 🧾 CV Overview
+
+### 🎓 Education
+- B.Sc. in Computer Science
+
+### 💼 Professional Focus
+- Full-Stack Architecture  
+- AI Integrations (OpenAI, LangChain)  
+- Real-time Communication (WebRTC, WebSockets)  
+- System Design & Scalability  
+- API Design & Microservices  
+
+### 🛠 Technical Skills
+- *Frontend:* React, Next.js, TypeScript, TailwindCSS  
+- *Backend:* Node.js, Express, MongoDB, REST APIs  
+- *DevOps:* Docker, CI/CD, GitHub Actions  
+- *AI & Automation:* OpenAI API, NLP, Python automation  
+- *UX/UI:* Figma, component-based design  
+
+---
+
+# 🚀 Projects Gallery
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80" width="260" />
+  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80" width="260" />
+  <img src="https://your-image.com/project3.png" width="260" />
+</p>
+
+---
+
+# 🧩 Interactive Project Cards
+
+| Project | Description | Technologies | Live Demo |
+|--------|-------------|--------------|-----------|
+| *ConnectFace* | Advanced social media platform with AI recommendations, WebRTC calls, real-time chat, and creator monetization | React, Node.js, WebRTC, MongoDB | 🔗 https://demo.com |
+| *AI Website Builder* | AI platform that builds websites + marketing content automatically | Next.js, AI, Tailwind, TypeScript | 🔗 https://demo.com |
+| *Portfolio Engine* | Smart generator for dynamic portfolio sites with themes & structured data | Node.js, React, YAML | 🔗 https://demo.com |
+
+---
+
+# 🎨 Light & Dark Mode Previews
+
+<p align="center">
+  <img src="https://your-image.com/light-mode.png" width="45%">
+  <img src="https://your-image.com/dark-mode.png" width="45%">
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+# 🇸🇦 النسخة العربية
+
+## 👋 نبذة عني
+
+أنا *عزالدين محمد ناجي الزكري، مطوّر **Full Stack* متخصص في بناء أنظمة حديثة، ذكية، وسريعة، مع تركيز على:
+
+- 🔹 تطوير تطبيقات الذكاء الاصطناعي  
+- 🔹 الأنظمة الفورية (WebRTC + WebSockets)  
+- 🔹 واجهات متقدمة ذات أداء عالي  
+- 🔹 هندسة المعمارية البرمجية  
+
+أعمل على تحويل الأفكار إلى منتجات ذات جودة عالية وتجربة استخدام مميزة.
+
+---
+
+# 🧾 السيرة الذاتية
+
+### 🎓 التعليم
+- بكالوريوس علوم الحاسوب
+
+### 💼 الخبرة
+- تطوير الأنظمة الخلفية والأمامية  
+- التكامل مع الذكاء الاصطناعي  
+- بناء أنظمة تواصل فوري  
+- تصميم واجهات احترافية  
+
+### 🛠 المهارات التقنية  
+- *الواجهة الأمامية:* React, Next.js, TypeScript  
+- *الواجهة الخلفية:* Node.js, Express, MongoDB  
+- *DevOps:* Docker, GitHub Actions  
+- *ذكاء اصطناعي:* OpenAI API  
+- *تصميم:* Figma  
+
+---
+
+# 🚀 معرض المشاريع
+
+<p align="center">
+  <img src="https://your-image.com/project1.png" width="260" />
+  <img src="https://your-image.com/project2.png" width="260" />
+  <img src="https://your-image.com/project3.png" width="260" />
+</p>
+
+---
+
+# 🧩 بطاقات المشاريع
+
+| المشروع | الوصف | التقنيات | العرض |
+|--------|--------|----------|-------|
+| *ConnectFace* | منصة تواصل اجتماعي متقدمة بالذكاء الاصطناعي | React, Node, Mongo | 🔗 رابط |
+| *AI Website Builder* | منصة ذكاء اصطناعي لإنشاء المواقع | Next.js, AI | 🔗 رابط |
+| *Portfolio Engine* | مولّد ذكي للملفات التعريفية | React, Node | 🔗 رابط |
+
+---
+
+# 🏆 الإنجازات
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ⚡ Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Contact
+
+- 📧 Email: aazaddeenalzekri@gmail.com  
+- 🐙 GitHub: https://github.com/EzzaldeenAlzekeri  
+- 💼 LinkedIn: https://www.linkedin.com/in/ezzaldeen-alzekri-048479216  
+- 🌐 Portfolio: https://ezzaldeen-portfolio.vercel.app
 
 ---
 
