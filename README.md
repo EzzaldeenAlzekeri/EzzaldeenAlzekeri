@@ -96,83 +96,12 @@ I love building digital products that combine *performance, **creativity, and **
 
 ---
 
-# 🇸🇦 النسخة العربية
-
-## 👋 نبذة عني
-
-أنا *عزالدين محمد ناجي الزكري، مطوّر **Full Stack* متخصص في بناء أنظمة حديثة، ذكية، وسريعة، مع تركيز على:
-
-- 🔹 تطوير تطبيقات الذكاء الاصطناعي  
-- 🔹 الأنظمة الفورية (WebRTC + WebSockets)  
-- 🔹 واجهات متقدمة ذات أداء عالي  
-- 🔹 هندسة المعمارية البرمجية  
-
-أعمل على تحويل الأفكار إلى منتجات ذات جودة عالية وتجربة استخدام مميزة.
-
----
-
-# 🧾 السيرة الذاتية
-
-### 🎓 التعليم
-- بكالوريوس علوم الحاسوب
-
-### 💼 الخبرة
-- تطوير الأنظمة الخلفية والأمامية  
-- التكامل مع الذكاء الاصطناعي  
-- بناء أنظمة تواصل فوري  
-- تصميم واجهات احترافية  
-
-### 🛠 المهارات التقنية  
-- *الواجهة الأمامية:* React, Next.js, TypeScript  
-- *الواجهة الخلفية:* Node.js, Express, MongoDB  
-- *DevOps:* Docker, GitHub Actions  
-- *ذكاء اصطناعي:* OpenAI API  
-- *تصميم:* Figma  
-
----
-
-# 🚀 معرض المشاريع
-
-<p align="center">
-  <img src="https://your-image.com/project1.png" width="260" />
-  <img src="https://your-image.com/project2.png" width="260" />
-  <img src="https://your-image.com/project3.png" width="260" />
-</p>
-
----
-
-# 🧩 بطاقات المشاريع
-
-| المشروع | الوصف | التقنيات | العرض |
-|--------|--------|----------|-------|
-| *ConnectFace* | منصة تواصل اجتماعي متقدمة بالذكاء الاصطناعي | React, Node, Mongo | 🔗 رابط |
-| *AI Website Builder* | منصة ذكاء اصطناعي لإنشاء المواقع | Next.js, AI | 🔗 رابط |
-| *Portfolio Engine* | مولّد ذكي للملفات التعريفية | React, Node | 🔗 رابط |
-
----
-
-# 🏆 الإنجازات
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## ⚡ Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-# 🌐 Contact
-
-- 📧 Email: aazaddeenalzekri@gmail.com  
-- 🐙 GitHub: https://github.com/EzzaldeenAlzekeri  
-- 💼 LinkedIn: https://www.linkedin.com/in/ezzaldeen-alzekri-048479216  
-- 🌐 Portfolio: https://ezzaldeen-portfolio.vercel.app
 
 ---
 
@@ -231,9 +160,10 @@ AI assistant that builds intelligent developer portfolios
 ---
 
 ## 📬 Connect With Me
-🌐 *Website:* https://ezzaldeen-portfolio.vercel.app  
-💼 *LinkedIn:* https://www.linkedin.com/in/ezzaldeen-alzekri-048479216  
-📧 *Email:* aazaddeenalzekri@gmail.com  
+- 📧 Email: aazaddeenalzekri@gmail.com  
+- 🐙 GitHub: https://github.com/EzzaldeenAlzekeri  
+- 💼 LinkedIn: https://www.linkedin.com/in/ezzaldeen-alzekri-048479216  
+- 🌐 Portfolio: https://ezzaldeen-portfolio.vercel.app
 
 ---
 
