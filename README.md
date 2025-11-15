@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:aazaddeenalzekri@gmail.com">📩 Email</a> •
   <a href="https://ezzaldeen-portfolio.vercel.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ezzaldeen-alzekri-048479216">💼 LinkedIn</a> •
+  <a href="linkedin.com/in/ezzaldeen-alzekri">💼 LinkedIn</a> •
   <a href="https://github.com/EzzaldeenAlzekeri">🐙 GitHub</a>
 </p>
 
@@ -170,7 +170,7 @@ Docker • GitHub Actions • CI/CD
 ## 📬 Connect With Me
 - 📧 Email: aazaddeenalzekri@gmail.com  
 - 🐙 GitHub: https://github.com/EzzaldeenAlzekeri  
-- 💼 LinkedIn: https://www.linkedin.com/in/ezzaldeen-alzekri-048479216  
+- 💼 LinkedIn: linkedin.com/in/ezzaldeen-alzekri  
 - 🌐 Portfolio: https://ezzaldeen-portfolio.vercel.app
 
 ---
