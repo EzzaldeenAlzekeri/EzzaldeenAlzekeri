@@ -83,15 +83,15 @@ I love building digital products that combine *performance, **creativity, and **
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EzzaldeenAlzekeri&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzzaldeenAlzekeri" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EzzaldeenAlzekeri&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ I love building digital products that combine *performance, **creativity, and **
 ## ⚡ Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzzaldeenAlzekeri&layout=compact&theme=tokyonight" />
 </p>
 
 
