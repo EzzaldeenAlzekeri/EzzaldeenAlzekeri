@@ -67,7 +67,7 @@ I love building digital products that combine *performance, **creativity, and **
 |--------|-------------|--------------|-----------|
 | *ConnectFace* | Advanced social media platform with AI recommendations, WebRTC calls, real-time chat, and creator monetization | React, Node.js, WebRTC, MongoDB | 🔗 https://demo.com |
 | *AI Website Builder* | AI platform that builds websites + marketing content automatically | Next.js, AI, Tailwind, TypeScript | 🔗 https://demo.com |
-| *Portfolio Engine* | Smart generator for dynamic portfolio sites with themes & structured data | Node.js, React, YAML | 🔗 https://demo.com |
+| *Portfolio Engine* | Smart generator for dynamic portfolio sites with themes & structured data | Node.js, React, YAML | 🔗 https://ezzaldeen-portfolio.vercel.app |
 
 ---
 
@@ -131,18 +131,6 @@ I love building digital products that combine *performance, **creativity, and **
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-1A73E8?style=flat)
-
----
-
-## 🚀 Featured Projects
-### 🔹 *ConnectFace*  
-AI-enhanced social platform with real-time communication (WebRTC + WebSockets)
-
-### 🔹 *AI Website Builder*  
-Generate full websites & marketing content using AI
-
-### 🔹 *Portfolio GPT*  
-AI assistant that builds intelligent developer portfolios
 
 ---
 
