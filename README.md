@@ -164,16 +164,6 @@ Docker • GitHub Actions • CI/CD
 **قواعد البيانات:** MongoDB, PostgreSQL, Redis  
 **DevOps:** Docker, GitHub Actions  
 
----
-
-## 📬 تواصل معي
-- 📧 البريد: aazaddeenalzekri@gmail.com  
-- 🐙 GitHub: https://github.com/EzzaldeenAlzekeri  
-- 💼 LinkedIn: https://www.linkedin.com/in/ezzaldeen-alzekri-048479216  
-- 🌐 الموقع: https://ezzaldeen-portfolio.vercel.app
-
-
-
 
 ---
 
