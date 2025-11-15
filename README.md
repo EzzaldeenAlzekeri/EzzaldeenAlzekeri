@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/EzzaldeenAlzekeri/EzzaldeenAlzekeri/blob/main/assets/banner.png?raw=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/EzzaldeenAlzekeri/EzzaldeenAlzekeri/refs/heads/main/assets/banner.png" width="100%" />
 </p>
 
 <h1 align="center">✨ Ezzaldeen Mohammed Naji Alzekri ✨</h1>
