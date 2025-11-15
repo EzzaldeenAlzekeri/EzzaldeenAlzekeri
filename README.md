@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://your-banner-image.com/banner.png" width="100%" alt="Ezzaldeen Mohammed Naji Alzekri Banner"/>
+  <img src="https://raw.githubusercontent.com/zzaldeenlzekeri/ez-folio-arabic-friendly/main/assets/banner.png" width="100%" />
 </p>
 
 <h1 align="center">✨ Ezzaldeen Mohammed Naji Alzekri ✨</h1>
