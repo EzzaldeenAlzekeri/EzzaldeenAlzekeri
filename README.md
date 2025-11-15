@@ -19,14 +19,14 @@
 
 ## 👋 About Me
 
-I'm *Ezzaldeen Mohammed Naji Alzekri, a passionate **Full Stack Developer* specialized in designing and developing high-performance, scalable systems with a focus on:
+I'm **Ezzaldeen Mohammed Naji Alzekri**, a **Full Stack Developer** specialized in designing and building scalable, intelligent, and modern applications powered by:
 
 - 🔹 AI-powered applications  
 - 🔹 Real-time systems (WebRTC + WebSockets)  
 - 🔹 Full-stack web development (React + Node.js + MongoDB)  
-- 🔹 Clean UI/UX with modern design standards  
+- 🔹 Clean, futuristic UI/UX design  
 
-I love building digital products that combine *performance, **creativity, and **intelligent automation*.
+I enjoy creating digital experiences that merge **performance, creativity, and powerful automation**.
 
 ---
 
@@ -36,18 +36,27 @@ I love building digital products that combine *performance, **creativity, and **
 - B.Sc. in Computer Science
 
 ### 💼 Professional Focus
-- Full-Stack Architecture  
-- AI Integrations (OpenAI, LangChain)  
+- Scalable Full-Stack Architecture  
+- AI Integrations (OpenAI, LangChain, HuggingFace)  
 - Real-time Communication (WebRTC, WebSockets)  
 - System Design & Scalability  
 - API Design & Microservices  
 
 ### 🛠 Technical Skills
-- *Frontend:* React, Next.js, TypeScript, TailwindCSS  
-- *Backend:* Node.js, Express, MongoDB, REST APIs  
-- *DevOps:* Docker, CI/CD, GitHub Actions  
-- *AI & Automation:* OpenAI API, NLP, Python automation  
-- *UX/UI:* Figma, component-based design  
+#### **Frontend:** 
+React • Next.js • TypeScript • TailwindCSS  
+ 
+#### **Backend**
+Node.js • Express • FastAPI • REST APIs  
+
+#### **AI / Automation**
+OpenAI API • LangChain • Python NLP • Workflow automation  
+
+#### **Databases**
+MongoDB • PostgreSQL • Redis • Pinecone (Vector DB)
+
+#### **DevOps**
+Docker • GitHub Actions • CI/CD 
 
 ---
 
@@ -56,7 +65,7 @@ I love building digital products that combine *performance, **creativity, and **
 <p align="center">
   <img src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80" width="260" />
   <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80" width="260" />
-  <img src="https://your-image.com/project3.png" width="260" />
+  <img src="https://images.unsplash.com/photo-1525182008055-f88b95ff7980?w=800&q=80" width="260" />
 </p>
 
 ---
@@ -65,42 +74,43 @@ I love building digital products that combine *performance, **creativity, and **
 
 | Project | Description | Technologies | Live Demo |
 |--------|-------------|--------------|-----------|
-| *ConnectFace* | Advanced social media platform with AI recommendations, WebRTC calls, real-time chat, and creator monetization | React, Node.js, WebRTC, MongoDB | 🔗 https://demo.com |
-| *AI Website Builder* | AI platform that builds websites + marketing content automatically | Next.js, AI, Tailwind, TypeScript | 🔗 https://demo.com |
-| *Portfolio Engine* | Smart generator for dynamic portfolio sites with themes & structured data | Node.js, React, YAML | 🔗 https://ezzaldeen-portfolio.vercel.app |
+| **ConnectFace** | Advanced social media platform with AI recommendations, WebRTC calls, real-time chat, and creator monetization | React, Node.js, WebRTC, MongoDB | 🔗 https://ezzaldeen-portfolio.vercel.app |
+| **AI Website Builder** | AI platform that builds websites + marketing content automatically | Next.js, AI, Tailwind, TypeScript | 🔗 https://ezzaldeen-portfolio.vercel.app |
+| **Portfolio Engine** | Smart generator for dynamic portfolio sites with themes & structured data | Node.js, React, YAML | 🔗 https://ezzaldeen-portfolio.vercel.app |
 
 ---
 
-# 🎨 Light & Dark Mode Previews
+# 🎨 Design Modes
 
 <p align="center">
-  <img src="https://your-image.com/light-mode.png" width="45%">
-  <img src="https://your-image.com/dark-mode.png" width="45%">
+  <img src="https://images.unsplash.com/photo-1547082299-de196ea013d6?w=800&q=80" width="45%">
+  <img src="https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?w=800&q=80" width="45%">
 </p>
 
----
 
-# 🏆 GitHub Achievements
+---
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EzzaldeenAlzekeri&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzzaldeenAlzekeri" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EzzaldeenAlzekeri&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzzaldeenAlzekeri&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EzzaldeenAlzekeri&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Stats
+## 📊 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzzaldeenAlzekeri&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzzaldeenAlzekeri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
@@ -133,17 +143,37 @@ I love building digital products that combine *performance, **creativity, and **
 ![Pinecone](https://img.shields.io/badge/Pinecone-1A73E8?style=flat)
 
 ---
+# 🇦🇪 النسخة العربية
 
-## 📊 GitHub Analytics
+## 👋 نبذة عني  
+أنا **عزالدين محمد ناجي الزكري**، مطوّر **Full Stack** متخصص في بناء أنظمة حديثة تعتمد على:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzzaldeenAlzekeri&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EzzaldeenAlzekeri&theme=tokyonight&hide_border=true" height="160" />
-</p>
+- 🔹 الذكاء الاصطناعي  
+- 🔹 أنظمة الزمن الحقيقي (WebRTC + WebSockets)  
+- 🔹 تطوير الويب المتكامل (React + Node.js + MongoDB)  
+- 🔹 تصميم واجهات عصرية بمعايير احترافية  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzzaldeenAlzekeri&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+أسعى لبناء حلول تجمع بين **الأداء العالي، الإبداع، والأتمتة الذكية**.
+
+---
+
+## 🎯 المهارات  
+**الواجهات:** React, Next.js, TypeScript  
+**الخلفية:** Node.js, Express, FastAPI  
+**الذكاء الاصطناعي:** OpenAI, LangChain  
+**قواعد البيانات:** MongoDB, PostgreSQL, Redis  
+**DevOps:** Docker, GitHub Actions  
+
+---
+
+## 📬 تواصل معي
+- 📧 البريد: aazaddeenalzekri@gmail.com  
+- 🐙 GitHub: https://github.com/EzzaldeenAlzekeri  
+- 💼 LinkedIn: https://www.linkedin.com/in/ezzaldeen-alzekri-048479216  
+- 🌐 الموقع: https://ezzaldeen-portfolio.vercel.app
+
+
+
 
 ---
 
